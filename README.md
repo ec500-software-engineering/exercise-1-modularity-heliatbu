@@ -8,7 +8,7 @@ Python 3.5
 python main_app.py
 
 ## System Diagram
-![](https://github.com/ec500-software-engineering/exercise-1-modularity-heliatbu/blob/master/ec500_heart_monitor_class_diagram.jpeg) 
+![](https://github.com/ec500-software-engineering/exercise-1-modularity-heliatbu/blob/master/system_diagram.jpg) 
 
 ## Responsibility
 Prediction engine module
